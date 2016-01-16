@@ -1,0 +1,19 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+.table>tbody>tr>td{
+	font-size: 16px;
+	border:none;
+}
+td:nth-child(2n){
+
+	font-weight: 600;
+}
+td img{
+	border: 3px solid black;
+}
